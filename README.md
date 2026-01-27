@@ -1,2 +1,2 @@
-# studious-train-salary
-Created on salary dataset.
+# studious-train
+Created on varied datasets including Salaries, Motor Insurance, Shopping Behaviour and more.
